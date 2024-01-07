@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "qr menu",
+			"path": ".."
+		},
+		{
+			"name": "images",
+			"path": "../../images"
+		}
+	],
+	"settings": {}
+}
